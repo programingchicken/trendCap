@@ -2207,6 +2207,8 @@ a.pakge_btn{height: 50px;line-height: 54px;font-size: 22px;max-width: 80%; margi
   .s3__right{
 	display: none;
   }
+
+
 }
 
 
@@ -2234,6 +2236,7 @@ a.pakge_btn{height: 50px;line-height: 54px;font-size: 22px;max-width: 80%; margi
 
 	.fix3 {
 		top: 2em;
+		width: 65vw ;
 	}
 	.cta_hero__black a:before, .cta_hero__black a:after {
 		position: absolute;
